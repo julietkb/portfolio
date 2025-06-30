@@ -1,3 +1,5 @@
+# this was all made in ~half an hour with https://www.codewithfriday.com/ 💅🏻
+
 ## Technologies Used
 
 - HTML5
